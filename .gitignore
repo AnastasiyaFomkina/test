@@ -4,13 +4,16 @@
 # Log file
 *.log
 
-# BlueJ files
-*.ctxt
+# Data file
+.data/
 
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
 
-# Package Files #
+# Package Files
 *.jar
 *.war
 *.nar
